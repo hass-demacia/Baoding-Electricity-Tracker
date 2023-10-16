@@ -1,3 +1,5 @@
+源项目地址：[Baoding-Electricity-Tracker](https://github.com/okatu-loli/Baoding-Electricity-Tracker)
+本项目至2023-10-16，开始硬分叉，不在跟随fork（unfork），单独提供dockerfile版本构建，有需要的场景，且原作者保持MIT License的情况下，会从原项目更新特性。
 # Baoding-Electricity-Tracker
 
 Baoding-Electricity-Tracker是一个基于Python编写的自动化程序，能够帮助用户查询河北省保定市的每日电费，同时支持通过飞书和ServerChan等平台发送电费通知。
